@@ -1,5 +1,0 @@
-mysql-connector-python
-requests
-python-dotenv
-customtkinter
-Pillow
